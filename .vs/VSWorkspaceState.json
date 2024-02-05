@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SignalR.BusinessLayer",
+    "\\SignalR.DataAccessLayer",
+    "\\SignalR.DataAccessLayer\\Concrete"
+  ],
+  "PreviewInSolutionExplorer": false
+}
